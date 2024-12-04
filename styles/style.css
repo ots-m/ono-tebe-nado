@@ -257,26 +257,6 @@
   line-height: 120%;
 }
 
-.about__letter-spacing {
-  letter-spacing: 0.01em;
-}
-
-.about__letter-spacing-wide {
-  letter-spacing: 0.02em;
-}
-
-.about__letter-spacing-less {
-  letter-spacing: -0.01em;
-}
-
-.about__letter-spacing-wider {
-  letter-spacing: 0.03em;
-}
-
-.about__letter-spacing-widest {
-  letter-spacing: 0.04em;
-}
-
 .footer {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
